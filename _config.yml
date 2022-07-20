@@ -79,7 +79,7 @@ author:
 
 footer:
   links:
-   - label: "Website"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https:/www.thetummymummy.com/"
     - label: "GitHub"
