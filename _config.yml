@@ -59,32 +59,33 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "First Lastname"
+  name   : "Sahana Saravanan"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Hello, I am Sahana Saravanan, technical writer, copywriter, and
+  blogger. I love cats ~~more~~ and dogs. Kafka, Han Kang, and Tolkien 
+  are some of the authors I adore and respect. My day does not start 
+  without Rumi poem. A cup of coffee, a book and a piece of paper to write
+  is all I need to be happy and contented."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+      url: "https:/www.thetummymummy.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
+      url: "https://github.com/sahanaasaravanan/"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+   - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https:/www.thetummymummy.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
+      url: "https://github.com/sahanaasaravanan/"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/"
 
