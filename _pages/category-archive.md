@@ -1,6 +1,6 @@
----
+e---
 title: "Posts by Category"
-layout: technical writing
+layout: categories
 permalink: /categories/
 author_profile: true
 ---
