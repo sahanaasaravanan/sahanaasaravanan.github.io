@@ -1,9 +1,9 @@
 main:
-  - title: "Posts"
+  - title: "Blog"
     url: /posts/
-  - title: "Categories"
+  - title: "Technical Writing"
     url: /categories/
-  - title: "Tags"
+  - title: "Content Writing"
     url: /tags/
-  - title: "About"
+  - title: "Resume/CV"
     url: /about/
