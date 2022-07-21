@@ -1,5 +1,5 @@
 ---
-title: <h1 align="center">Sample 1: How to Push Files to a Remote Repository Using Git?</h1>
+title: "<h1 align="center">Sample 1: How to Push Files to a Remote Repository Using Git?</h1>"
 last_modified_at: 2022-07-21T17:12:04+00:00
 categories:
   - How-to Guides
