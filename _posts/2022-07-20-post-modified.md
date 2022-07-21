@@ -5,6 +5,24 @@ categories:
   - How-to Guides
 ---
 
-This post has been updated and should show a modified date if used in a layout.
+# <div align="center"> Sample 1
+## How to Push Files to a Remote Repository Using Git?
 
-All children, except one, grow up. They soon know that they will grow up, and the way Wendy knew was this. One day when she was two years old she was playing in a garden, and she plucked another flower and ran with it to her mother. I suppose she must have looked rather delightful, for Mrs. Darling put her hand to her heart and cried, "Oh, why can't you remain like this for ever!" This was all that passed between them on the subject, but henceforth Wendy knew that she must grow up. You always know after you are two. Two is the beginning of the end.
+## Overview
+I prepared this how-to guide as a sample for my technical writing portfolio.
+
+## Tools Used
+GitHub, Git, Atom (text editor), Markdown, Command Line Interface (CLI)
+
+## Documentation Plan
+
+### Audience:
+This guide assumes that the user has a little knowledge about how GitHub works- like account creation and knowing where to find the URL of the repository. The user need not necessarily have a strong coding knowledge.
+
+### Benefits:
+This guide provides a concise step-by-step approach in learning how to push files from local repository to GitHub using Git and CLI. It also benefits the new developers, technical writers or anyone who wants to have a quick brush up about committing and pushing files from the local repository.
+
+### Results:
+For writing a clear how-to guide, I tested the process and the sequence before preparing the document. With the help of Atom, I created the document in Markdown syntax locally on the computer. Then, I used the steps mentioned in the document, to stage, commit and push the changes to the GitHub repository. Additionally, I also documented some of the errors the first-time users might face when following the process, with its proposed solution.
+
+<a href="https://github.com/sahanaasaravanan/Github_documentation/blob/8125d88a806548079669d1e3db1403ab9fc41927/Uploading_with_GitCMD.md">![Sample 1](https://github.com/sahanaasaravanan/sahanaasaravanan.github.io/blob/c7fdc633ed7f4cde46ccaa69052b159a5fb397f5/assets/images/how-to1.jpg)</a>
