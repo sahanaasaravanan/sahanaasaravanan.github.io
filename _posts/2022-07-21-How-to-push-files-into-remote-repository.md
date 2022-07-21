@@ -27,4 +27,4 @@ For writing a clear how-to guide, I tested the process and the sequence before p
 
 <a href="https://github.com/sahanaasaravanan/Github_documentation/blob/8125d88a806548079669d1e3db1403ab9fc41927/Uploading_with_GitCMD.md">![Sample 1](assets/images/how-to1.jpg)</a>
 
-<a href="https://github.com/sahanaasaravanan/Github_documentation/blob/8125d88a806548079669d1e3db1403ab9fc41927/Uploading_with_GitCMD.md" rel="some text">![Foo](https://github.com/sahanaasaravanan/sahanaasaravanan.github.io/blob/97b8de1a0a8d8ffe5b672f7479e152668a1de3fc/assets/images/how-to1.jpg)</a>
+<a href="https://github.com/sahanaasaravanan/Github_documentation/blob/8125d88a806548079669d1e3db1403ab9fc41927/Uploading_with_GitCMD.md" rel="some text">![Foo](https://github.com/sahanaasaravanan/sahanaasaravanan.github.io/blob/596e1b66805ff4facf09fd0f0cdc1c639167473a/assets/images/sample1.png)</a>
