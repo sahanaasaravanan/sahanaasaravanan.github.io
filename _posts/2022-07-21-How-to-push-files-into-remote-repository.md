@@ -23,6 +23,6 @@ This guide assumes that the user has a little knowledge about how GitHub works- 
 This guide provides a concise step-by-step approach in learning how to push files from local repository to GitHub using Git and CLI. It also benefits the new developers, technical writers or anyone who wants to have a quick brush up about committing and pushing files from the local repository.
 
 ### Results:
-For writing a clear how-to guide, I tested the process and the sequence before preparing the document. With the help of Atom, I created the document in Markdown syntax locally on the computer. Then, I used the steps mentioned in the document, to stage, commit and push the changes to the GitHub repository. Additionally, I also documented some of the errors the first-time users might face when following the process, with its proposed solution.
+For writing a clear how-to guide, I tested the process and the sequence before preparing the document. With the help of Atom, I created the document in Markdown syntax locally on the computer. Then, I used the steps mentioned in the document, to stage, commit and push the changes to the GitHub repository.
 
 <a href="https://github.com/sahanaasaravanan/Github_documentation/blob/8125d88a806548079669d1e3db1403ab9fc41927/Uploading_with_GitCMD.md" rel="some text">![Foo](https://github.com/sahanaasaravanan/Github_documentation/blob/d62150862acad83b19cf6137b94e8af59c0dcca3/sample1.png)</a>
