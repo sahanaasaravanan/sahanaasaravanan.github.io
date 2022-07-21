@@ -5,7 +5,7 @@ categories:
   - How-to Guides
 ---
 
-# <div align="center"> Sample 1
+# <div align="center"> Sample 1 </div>
 ## How to Push Files to a Remote Repository Using Git?
 
 ## Overview
