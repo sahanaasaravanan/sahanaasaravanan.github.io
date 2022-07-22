@@ -30,4 +30,4 @@ For writing a clear how-to guide, I tested the process and the sequence before p
 <a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
 ![alt text](https://github.com/sahanaasaravanan/Github_documentation/blob/d62150862acad83b19cf6137b94e8af59c0dcca3/sample1.png)
 
-<a href="https://github.com/sahanaasaravanan/Github_documentation/blob/8125d88a806548079669d1e3db1403ab9fc41927/Uploading_with_GitCMD.md"> <img alt="Qries" src="https://github.com/sahanaasaravanan/sahanaasaravanan.github.io/blob/7288c7329fac371ae27cda62570480d776cb7313/assets/images/how-to1.jpg" width="150" height="70">
+<a href="https://github.com/sahanaasaravanan/Github_documentation/blob/8125d88a806548079669d1e3db1403ab9fc41927/Uploading_with_GitCMD.md"> <img alt="Qries" src="https://github.com/sahanaasaravanan/sahanaasaravanan.github.io/blob/7288c7329fac371ae27cda62570480d776cb7313/assets/images/how-to1.JPG" width="150" height="70">
