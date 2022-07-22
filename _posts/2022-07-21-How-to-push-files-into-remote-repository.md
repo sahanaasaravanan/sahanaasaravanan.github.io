@@ -29,3 +29,4 @@ For writing a clear how-to guide, I tested the process and the sequence before p
 
 ![Book logo](/sahanaasaravanan.github.io/assets/images/sample1.png)
 <a href="http://google.com.au/" rel="some text">![Foo](http://www.google.com.au/images/nav_logo7.png)</a>
+![alt text](https://github.com/sahanaasaravanan/Github_documentation/blob/d62150862acad83b19cf6137b94e8af59c0dcca3/sample1.png)
