@@ -1,12 +1,11 @@
 ---
-title: "Sample 1: How to Push Files to a Remote Repository Using Git?"
+title: "Sample 1"
 last_modified_at: 2022-07-21T17:12:04+00:00
 categories:
   - How-to Guides
 ---
 
-<h1 align="center">Sample 1</h1>
-## How to Push Files to a Remote Repository Using Git?
+<h1 align="center">## How to Push Files to a Remote Repository Using Git?</h1>
 
 ## Overview
 I prepared this how-to guide as a sample for my technical writing portfolio.
