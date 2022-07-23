@@ -25,4 +25,4 @@ This guide provides a concise step-by-step approach in learning how to push file
 ### Results:
 For writing a clear how-to guide, I tested the process and the sequence before preparing the document. With the help of Atom, I created the document in Markdown syntax locally on the computer. Then, I used the steps mentioned in the document, to stage, commit and push the changes to the GitHub repository.
 
-<a href="https://github.com/sahanaasaravanan/Github_documentation/blob/8125d88a806548079669d1e3db1403ab9fc41927/Uploading_with_GitCMD.md"> <img alt="Qries" src="/assets/images/how-to1.jpg" width="150" height="70">
+<a href="https://github.com/sahanaasaravanan/Github_documentation/blob/8125d88a806548079669d1e3db1403ab9fc41927/Uploading_with_GitCMD.md"> <img alt="Qries" src="/assets/images/how-to1.jpg" width="300" height="140">
