@@ -1,6 +1,5 @@
 ---
 permalink: /about/
-<object data="assets\docs\Resume.pdf" width="1000" height="1000" type='application/pdf'></object>
 ---
 
-<object data="assets\docs\Resume.pdf" width="1000" height="1000" type='application/pdf'></object>
+[Intro.pdf](https://github.com/sahanaasaravanan/sahanaasaravanan.github.io/blob/5591a1d276e24156378d32e970ba8eb60e6636ec/assets/docs/Resume.pdf)
