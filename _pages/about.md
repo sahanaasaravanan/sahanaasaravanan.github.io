@@ -2,4 +2,5 @@
 permalink: /about/
 ---
 
-[Intro.pdf](https://github.com/sahanaasaravanan/sahanaasaravanan.github.io/blob/5591a1d276e24156378d32e970ba8eb60e6636ec/assets/docs/Resume.pdf)
+Code: https://github.com/sahanaasaravanan/sahanaasaravanan.github.io/blob/183c45fbcb05ee47d996dbca92a7aadb2a34e21b/assets/docs/Resume.pdf
+Effect: https://sahanaasaravanan.github.io/about/
