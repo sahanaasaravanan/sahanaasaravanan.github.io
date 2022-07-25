@@ -75,20 +75,20 @@ author:
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sahanaasaravanan/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/sahana-saravanan/"
 
 footer:
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https:/www.thetummymummy.com/"
+      url: "https://thetummymummy.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/sahanaasaravanan/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/sahana-saravanan/"
 
 defaults:
   # _posts
