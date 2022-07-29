@@ -14,7 +14,7 @@ Markdown, Ubuntu, Atom (Text Editor), Git, GitHub, GitHub Pages
 ## Documentation Plan
 
 ### Audience
-This tutorial is for all users who wants to create GitHub pages with Jekyll site for a portfolio, website or a blog.
+This tutorial is for all users who want to create GitHub pages with Jekyll site for a portfolio, website or a blog.
 
 ### Benefits
 This tutorial provides a step-by-step approach on how to create a portfolio, blog or a non-commercial website on GitHub pages using a static website generator called Jekyll.
