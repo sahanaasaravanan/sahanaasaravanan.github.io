@@ -22,4 +22,4 @@ This tutorial provides a step-by-step approach on how to create a portfolio, blo
 ### Results
 I documented this tutorial after installing Jekyll bundler with ruby gems on Ubuntu terminal environment with Windows Subsystem for Linux (WSL). I followed the steps (as mentioned) in Official GitHub Pages to create a portfolio hosted directly from my public repository. Using Atom text editor, I crafted a detailed process of creating GitHub pages using Jekyll.
 
-<a href="https://github.com/sahanaasaravanan/Github_documentation/blob/8125d88a806548079669d1e3db1403ab9fc41927/Uploading_with_GitCMD.md"> <img alt="Pushing Files with Git" src="/assets/images/how-to1.jpg" width="300" height="140">
+<a href="https://github.com/sahanaasaravanan/Github_documentation/blob/035c0bb04e3d5a3c1d73162d1bee424e5139e7cb/Tutorial-on-creating-a-website-with-github-pages-and-jekyll.md"> <img alt="Pushing Files with Git" src="/assets/images/how-to1.jpg" width="300" height="140">
