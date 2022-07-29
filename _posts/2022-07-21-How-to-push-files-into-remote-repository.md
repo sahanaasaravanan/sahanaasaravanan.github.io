@@ -13,7 +13,7 @@ GitHub, Git, Atom (text editor), Markdown, Command Line Interface (CLI)
 ## Documentation Plan
 
 ### Audience:
-This guide assumes that the user has a little knowledge about how GitHub works- like account creation and knowing where to find the URL of the repository. The user need not necessarily have a strong coding knowledge.
+This guide assumes that the user has a little knowledge about how GitHub works- like account creation and knowing where to find the URL of the repository. The user need not have a coding knowledge.
 
 ### Benefits:
 This guide provides a concise step-by-step approach in learning how to push files from local repository to GitHub using Git and CLI. It also benefits the new developers, technical writers or anyone who wants to have a quick brush up about committing and pushing files from the local repository.
